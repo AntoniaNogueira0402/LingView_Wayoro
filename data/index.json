@@ -167,14 +167,14 @@
     }
   },
   "eb6d7fe9-c293-4eb2-8307-95f3d0ced78f": {
-    "timed": true,
+    "timed": false,
     "story ID": "eb6d7fe9-c293-4eb2-8307-95f3d0ced78f",
     "title": {
       "_default": "Wayoro-festa-tradicional"
     },
     "media": {
       "audio": "",
-      "video": "Wayoro-festa-tradicional (1).mp4"
+      "video": ""
     },
     "languages": [],
     "date_created": "",
@@ -247,6 +247,53 @@
       },
       "S2": {
         "tier": "Interlinear-title-kui"
+      }
+    }
+  },
+  "84f19062-bc93-4ecc-be3f-a7803b21834d": {
+    "timed": true,
+    "story ID": "84f19062-bc93-4ecc-be3f-a7803b21834d",
+    "title": {
+      "_default": "WYR-20100326-FN-PM-caracol"
+    },
+    "media": {
+      "audio": "WYR-20100326-FN-PM-caracol.wav",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "3/7/2021",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "WYR-20100326-FN-PM-caracol.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "title-note-por": {
+        "name": "title-note-por",
+        "subdivided": false
+      },
+      "transcription-txt-wyr": {
+        "name": "transcription-txt-wyr",
+        "subdivided": true
+      },
+      "translation-gls-por": {
+        "name": "translation-gls-por",
+        "subdivided": true
+      },
+      "words-txt-wyr": {
+        "name": "words-txt-wyr",
+        "subdivided": true
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "title-note-por"
       }
     }
   }
