@@ -1,0 +1,2971 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "84f19062-bc93-4ecc-be3f-a7803b21834d",
+    "title": {
+      "_default": "WYR-20100326-FN-PM-caracol"
+    },
+    "media": {
+      "audio": "WYR-20100326-FN-PM-caracol.wav",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "3/7/2021",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "WYR-20100326-FN-PM-caracol.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "title-note-por": {
+        "name": "title-note-por",
+        "subdivided": false
+      },
+      "transcription-txt-wyr": {
+        "name": "transcription-txt-wyr",
+        "subdivided": true
+      },
+      "translation-gls-por": {
+        "name": "translation-gls-por",
+        "subdivided": true
+      },
+      "words-txt-wyr": {
+        "name": "words-txt-wyr",
+        "subdivided": true
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "title-note-por"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 6480,
+      "end_time_ms": 7230,
+      "num_slots": 1,
+      "text": "WYR-20100326-FN-PM-caracol 01",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ũyã"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ũyã"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Caracol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 50340,
+      "end_time_ms": 52771,
+      "num_slots": 2,
+      "text": "WYR-20100326-FN-PM-caracol 02",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "ũyã iperiat "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ũyã"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "iperiat"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "A Dona era caracol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 52771,
+      "end_time_ms": 55476,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 03",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "tuero nderap eriat"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tuero"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "nderap"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "eriat"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": " Ela gostava de fazer chicha [lit. Dona do fazer chicha]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 55476,
+      "end_time_ms": 57819,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 04",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "tuero pare nderap eriat"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tuero"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "pare"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "nderap"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "eriat"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "Ela fazia chicha gostosa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 57819,
+      "end_time_ms": 63230,
+      "num_slots": 7,
+      "text": "WYR-20100326-FN-PM-caracol 05",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": "kawate aramiraian djitogo togoap nõ nãm ndiakwa."
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "kawate"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "aramiraian"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "djitogo"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "togoap"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "nõ"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "nãm"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "ndiakwa."
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": "A mulheres queriam mascar (fazer mais masca) para ela."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 63230,
+      "end_time_ms": 65984,
+      "num_slots": 1,
+      "text": "WYR-20100326-FN-PM-caracol 06",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "djitogotogoa"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "djitogotogoa"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Ela mascou (para ela)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 65984,
+      "end_time_ms": 70259,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 07",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "aramiraian mbo nã "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aramiraian"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "mbo"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "nã"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "A mulherada queria ajudar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 70259,
+      "end_time_ms": 73302,
+      "num_slots": 1,
+      "text": "WYR-20100326-FN-PM-caracol 08",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "djitogotogorere"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "djitogotogorere"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Enquanto ela estava mascando,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 73302,
+      "end_time_ms": 74848,
+      "num_slots": 1,
+      "text": "WYR-20100326-FN-PM-caracol 09",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tembopoe "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tembopoe"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "moeu ligeiro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 74848,
+      "end_time_ms": 78133,
+      "num_slots": 6,
+      "text": "WYR-20100326-FN-PM-caracol 10",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "karemõ endu mẽ  enduya mẽ  mãa "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "karemõ"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "endu"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "mẽ"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "enduya"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "mẽ"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "mãa"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "Depois, o pilão, a mão de pilão, ela colocou dentro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 78133,
+      "end_time_ms": 80283,
+      "num_slots": 2,
+      "text": "WYR-20100326-FN-PM-caracol 11",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "tembopoe ndera"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tembopoe"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ndera"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "Ela moeu ligeiro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 80283,
+      "end_time_ms": 82626,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 12",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "karemõ ekun ngwep"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "karemõ"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ekun"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ngwep"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "Então, ela subiu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 82626,
+      "end_time_ms": 86781,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 13",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "endudja ere meng"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "endudja"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ere"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "meng"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "Ficou em cima da mão de pilão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 86781,
+      "end_time_ms": 93955,
+      "num_slots": 5,
+      "text": "WYR-20100326-FN-PM-caracol 14",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "djipot ngu tekara djitogo nã"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "djipot"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ngu"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "tekara"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "djitogo"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "nã"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "O líquido dela derramou para ser masca para ela."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 93955,
+      "end_time_ms": 97476,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 15",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "karemõ kun pu ndera"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "karemõ"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "kun"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "pu"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ndera"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": " Ela desceu e moeu de novo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 97476,
+      "end_time_ms": 101268,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 16",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "kerere aramiraian djitogo eteia"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "kerere"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "aramiraian"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "djitogo"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "eteia"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "Enquanto isso, a mulherada vinha trazendo masca para ela."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 101268,
+      "end_time_ms": 104915,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 17",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "\"djitogo eteia djat\""
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"djitogo"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "eteia"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "djat\""
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "\"[Agora que] vocês vem trazendo masca para ela (chicha)]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 104915,
+      "end_time_ms": 110281,
+      "num_slots": 5,
+      "text": "WYR-20100326-FN-PM-caracol 18",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "djitogo iraram on djitogo mãam"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "djitogo"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "iraram"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "on"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "djitogo"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "mãam"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "(masca para ela, para vir de novo), já coloquei a masca."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 110281,
+      "end_time_ms": 113687,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 19",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "tui ẽe torom\""
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tui"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ẽe"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "torom\""
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "Tu não está vendo que isso está doce.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 113687,
+      "end_time_ms": 119178,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 20",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "djitogo eteiariat djitogo mõepitarẽkwa "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "djitogo"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "eteiariat"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "djitogo"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "mõepitarẽkwa"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "Ela fez voltar as que levaram a masca para chicha, a masca para chicha."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 119178,
+      "end_time_ms": 131642,
+      "num_slots": 6,
+      "text": "WYR-20100326-FN-PM-caracol 21",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "kawere (ewap) aramira tuero teitogo(t) nãm"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "kawere"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "(ewap)"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "aramira"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "tuero"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "teitogo(t)"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "nãm"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "Nisso, ela estava fazendo masca para a chica dela mesma. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 131642,
+      "end_time_ms": 137246,
+      "num_slots": 16,
+      "text": "WYR-20100326-FN-PM-caracol 22",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 16,
+              "value": "teitogo teũyã pe nõ nã (itogotogoiat) itogotogoa [o caracol estava mascando e as outras queriam mascar]"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "teitogo"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "teũyã"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "pe"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "nõ"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "nã"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "(itogotogoiat)"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "itogotogoa"
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "[o"
+            },
+            {
+              "start_slot": 8,
+              "end_slot": 9,
+              "value": "caracol"
+            },
+            {
+              "start_slot": 9,
+              "end_slot": 10,
+              "value": "estava"
+            },
+            {
+              "start_slot": 10,
+              "end_slot": 11,
+              "value": "mascando"
+            },
+            {
+              "start_slot": 11,
+              "end_slot": 12,
+              "value": "e"
+            },
+            {
+              "start_slot": 12,
+              "end_slot": 13,
+              "value": "as"
+            },
+            {
+              "start_slot": 13,
+              "end_slot": 14,
+              "value": "outras"
+            },
+            {
+              "start_slot": 14,
+              "end_slot": 15,
+              "value": "queriam"
+            },
+            {
+              "start_slot": 15,
+              "end_slot": 16,
+              "value": "mascar]"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 16,
+              "value": "O caracol dela fazia mais masca para ela mesma, as (mulheres) que estavam mascando mascavam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 137246,
+      "end_time_ms": 143333,
+      "num_slots": 8,
+      "text": "WYR-20100326-FN-PM-caracol 23",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 8,
+              "value": "keyaya togo mbiro ẽe, togo mbiro ẽe, kenẽkwat."
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "keyaya"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "togo"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "mbiro"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ẽe,"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "togo"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "mbiro"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "ẽe,"
+            },
+            {
+              "start_slot": 7,
+              "end_slot": 8,
+              "value": "kenẽkwat."
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 8,
+              "value": "Isso já tem masca,isso já tem masca, foi desse jeito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 143333,
+      "end_time_ms": 146932,
+      "num_slots": 2,
+      "text": "WYR-20100326-FN-PM-caracol 24",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "mãkenean kimõendop "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mãkenean"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "kimõendop"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "como é nosso conhecimento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 146932,
+      "end_time_ms": 152712,
+      "num_slots": 5,
+      "text": "WYR-20100326-FN-PM-caracol 25",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "kawere men mõendop toap nã"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "kawere"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "men"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "mõendop"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "toap"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "nã"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "Então, o marido quer ver o saber dela (como que ela está fazendo)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 152712,
+      "end_time_ms": 155321,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 26",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "\"mõendop toap nã on"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"mõendop"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "toap"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "nã"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "on"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "\"Eu vou ver o jeito dela (o saber dela)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 155321,
+      "end_time_ms": 158123,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 27",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "mbekowap nã on\""
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mbekowap"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "nã"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "on\""
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "Eu vou me esconder.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 158123,
+      "end_time_ms": 163002,
+      "num_slots": 2,
+      "text": "WYR-20100326-FN-PM-caracol 28",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "aramiraian djitogotogorara"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aramiraian"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "djitogotogorara"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": " A mulherada estava mascando para chicha,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 163002,
+      "end_time_ms": 165937,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 29",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "tuero ndera neran"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tuero"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ndera"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "neran"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "(Ela) estava fazendo chicha."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 165937,
+      "end_time_ms": 169222,
+      "num_slots": 2,
+      "text": "WYR-20100326-FN-PM-caracol 30",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "tembopoe puga"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tembopoe"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "puga"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "Ela cozinhou rápido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 169222,
+      "end_time_ms": 173352,
+      "num_slots": 5,
+      "text": "WYR-20100326-FN-PM-caracol 31",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "tembopoe endudja mẽ kuy mãa"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tembopoe"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "endudja"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "mẽ"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "kuy"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "mãa"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "Colocou rápido (dentro do pilão), a mão de pilão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 173352,
+      "end_time_ms": 179019,
+      "num_slots": 7,
+      "text": "WYR-20100326-FN-PM-caracol 32",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": "ndera, tepaya(p) mẽ top, tembopoe ekun ngwep"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ndera,"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "tepaya(p)"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "mẽ"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "top,"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "tembopoe"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "ekun"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "ngwep"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": "moia, o líquido  derramado dela, subia rápido. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 179019,
+      "end_time_ms": 181822,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 33",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "meng endudja ere"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "meng"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "endudja"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ere"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "Ficou grudada na mão de pilão."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 181822,
+      "end_time_ms": 186870,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 34",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "kawere ẽe tekara yãyngu"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "kawere"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ẽe"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "tekara"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "yãyngu"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "Então isso caía, o líquido do dente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 186870,
+      "end_time_ms": 192679,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 35",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "ekun kup nerã ndera"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ekun"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "kup"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "nerã"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ndera"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "Ela desceu de novo para moer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 192679,
+      "end_time_ms": 199636,
+      "num_slots": 6,
+      "text": "WYR-20100326-FN-PM-caracol 36",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "nderit parekarap ndiakwa aramiraian itogo eteirara "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nderit"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "parekarap"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ndiakwa"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "aramiraian"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "itogo"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "eteirara"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "\"Está moída, já estava aprontando\", a mulherada continuava chegando com masca."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 199636,
+      "end_time_ms": 202452,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 37",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "itogo mãrõã pai ẽe"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "itogo"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "mãrõã"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "pai"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ẽe"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "Jogou a masca, derramou, essa. "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 202452,
+      "end_time_ms": 205230,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 38",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "txõwãm ndiakwait on"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "txõwãm"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ndiakwait"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "on"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": " Eu vou tirar (mão de pilão)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 205230,
+      "end_time_ms": 209129,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 39",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "kawere men yõngũa"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "kawere"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "men"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "yõngũa"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "O marido colocou para dentro (fez entrar a mão de pilão)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 209129,
+      "end_time_ms": 212052,
+      "num_slots": 1,
+      "text": "WYR-20100326-FN-PM-caracol 40",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"toa"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"toa"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"Olha,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 212052,
+      "end_time_ms": 214951,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 41",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "kene kaat kironde moendop "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "kene"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "kaat"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "kironde"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "moendop"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "como é\", ele falou, \"é por isso que ela sabe\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 214951,
+      "end_time_ms": 220166,
+      "num_slots": 7,
+      "text": "WYR-20100326-FN-PM-caracol 42",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": "aramira ndekwat ngwat miõkop kerombogat on kawete"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aramira"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ndekwat"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "ngwat"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "miõkop"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "kerombogat"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "on"
+            },
+            {
+              "start_slot": 6,
+              "end_slot": 7,
+              "value": "kawete"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 7,
+              "value": "\"Parecia que eu estava morando com mulher verdadeira, mas eu não estava."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 220166,
+      "end_time_ms": 224966,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 43",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "ũyã iperiat kerõnde miõkop "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ũyã"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "iperiat"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "kerõnde"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "miõkop"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "É verdade. é a Dona do caracol com quem eu estou morando."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 224966,
+      "end_time_ms": 229053,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 44",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "yengu ate kaa. "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yengu"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ate"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "kaa."
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "Assim mesmo estão tomando a chicha dela."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 229053,
+      "end_time_ms": 232160,
+      "num_slots": 2,
+      "text": "WYR-20100326-FN-PM-caracol 45",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "nderarap ere"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nderarap"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ere"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "Quando preparar chicha de novo,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 232160,
+      "end_time_ms": 237302,
+      "num_slots": 5,
+      "text": "WYR-20100326-FN-PM-caracol 46",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "eengu korom nãm nã on"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "eengu"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "korom"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "nãm"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "nã"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "on"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "eu não vou beber tua chicha."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 237302,
+      "end_time_ms": 242169,
+      "num_slots": 6,
+      "text": "WYR-20100326-FN-PM-caracol 47",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "aramira iperiat aramira ndekwatngwat miõkop kerombogaron"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aramira"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "iperiat"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "aramira"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "ndekwatngwat"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "miõkop"
+            },
+            {
+              "start_slot": 5,
+              "end_slot": 6,
+              "value": "kerombogaron"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 6,
+              "value": "é a Dona das mulheres, parecia mulher de verdade com quem eu estava morando, mas não é."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 242169,
+      "end_time_ms": 245588,
+      "num_slots": 5,
+      "text": "WYR-20100326-FN-PM-caracol 48",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "kawate aramira erom pot en "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "kawate"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "aramira"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "erom"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "pot"
+            },
+            {
+              "start_slot": 4,
+              "end_slot": 5,
+              "value": "en"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 5,
+              "value": "Mas você não é mulher."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 245588,
+      "end_time_ms": 248115,
+      "num_slots": 4,
+      "text": "WYR-20100326-FN-PM-caracol 49",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "ũyã iperiat pot en "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ũyã"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "iperiat"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "pot"
+            },
+            {
+              "start_slot": 3,
+              "end_slot": 4,
+              "value": "en"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 4,
+              "value": "você é Dona (mulher) do caracol.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 248115,
+      "end_time_ms": 249899,
+      "num_slots": 2,
+      "text": "WYR-20100326-FN-PM-caracol 50",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "kawere tenĩã "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "kawere"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "tenĩã"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "Então, ela ficou com vergonha."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 249899,
+      "end_time_ms": 253095,
+      "num_slots": 2,
+      "text": "WYR-20100326-FN-PM-caracol 51",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "teukara pim"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "teukara"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "pim"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "Ela chorou. Escureceu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 253095,
+      "end_time_ms": 256646,
+      "num_slots": 2,
+      "text": "WYR-20100326-FN-PM-caracol 52",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "tenaramkarap ndiakwat"
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tenaramkarap"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ndiakwat"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 2,
+              "value": "Já está querendo amanhecer,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 256646,
+      "end_time_ms": 259200,
+      "num_slots": 3,
+      "text": "WYR-20100326-FN-PM-caracol 53",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "tet ugu piõ "
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tet"
+            },
+            {
+              "start_slot": 1,
+              "end_slot": 2,
+              "value": "ugu"
+            },
+            {
+              "start_slot": 2,
+              "end_slot": 3,
+              "value": "piõ"
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 3,
+              "value": "Ela foi embora para dentro da água."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "title-note-por",
+      "start_time_ms": 259200,
+      "end_time_ms": 275390,
+      "num_slots": 1,
+      "text": "WYR-20100326-FN-PM-caracol 54",
+      "dependents": [
+        {
+          "tier": "transcription-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "karigit."
+            }
+          ]
+        },
+        {
+          "tier": "words-txt-wyr",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "karigit."
+            }
+          ]
+        },
+        {
+          "tier": "translation-gls-por",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Foi assim."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

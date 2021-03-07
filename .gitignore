@@ -1,7 +1,1 @@
 node_modules/
-.idea/
-bundle/
-bundle-online/
-bundle-offline/
-data/json_files/
-data/search_index.json
